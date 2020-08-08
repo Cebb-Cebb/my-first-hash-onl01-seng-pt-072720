@@ -15,11 +15,11 @@ end
   #                             "oil paintings" => 3
   #                                     }
 
-  #                          Look up the value of the "oil paintings" key in                            the shipping_manifest hash below
+ 
   
 def retrieval
    retrieval = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
-  retrieval["oil paintings"]
+  retrieval["oil paintings"] 
 end
 
 
