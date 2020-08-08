@@ -3,6 +3,9 @@ def my_hash
    my_hash = {"name" => "hersson", "age" => 32, "location" => "CT"}
 end
 
+  # set a variable called `the_manifest`, equal to a hash
+  # fill that hash with key/value pairs that describe the following information: 
+  # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
 
 def shipping_manifest
   shipping_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil paintings" => 3}
